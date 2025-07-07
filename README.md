@@ -146,4 +146,5 @@ Authorization: Bearer SEU_TOKEN
 - CORS habilitado
 
 ---
- Sinta-se livre para usar e modificar.
+
+Sinta-se livre para usar e modificar.
