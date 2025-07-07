@@ -146,16 +146,4 @@ Authorization: Bearer SEU_TOKEN
 - CORS habilitado
 
 ---
-
-## 📌 Próximos passos (sugestão)
-- ✅ Validação com Zod ou Joi
-- ✅ Swagger para documentação
-- ✅ Testes com Jest/Supertest
-- ✅ Logs com Winston
-- ✅ Refresh Token
-
----
-
-## 📄 Licença
-
-MIT — Sinta-se livre para usar e modificar.
+— Sinta-se livre para usar e modificar.
